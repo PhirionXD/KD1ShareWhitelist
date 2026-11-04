@@ -2,7 +2,8 @@
   "317679c4-d643-4d12-bcee-b0337026debc": {
     "name": "VeertjeLynn",
     "modules": [
-      "esp"
+      "esp",
+      "nametag"
     ]
   },
   "2e11dacc-a313-4c0e-910f-d9dcb94e41d6": {
