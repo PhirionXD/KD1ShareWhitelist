@@ -6,6 +6,14 @@
       "nametag"
     ]
   },
+  "5e7b6253-4a8a-4e17-b723-a771cd80ab2e": {
+    "name": "VuistVerslinder",
+    "modules": [
+      "esp",
+      "nametag",
+      "freecam"
+    ]
+  },
   "2e11dacc-a313-4c0e-910f-d9dcb94e41d6": {
     "name": "BestInCom",
     "modules": [
@@ -16,14 +24,6 @@
   },
   "c8d4fa86-2541-4243-89fc-a9271ff41000": {
     "name": "Piele",
-    "modules": [
-      "esp",
-      "nametag",
-      "freecam"
-    ]
-  },
-  "5e7b6253-4a8a-4e17-b723-a771cd80ab2e": {
-    "name": "VuistVerslinder",
     "modules": [
       "esp",
       "nametag",
