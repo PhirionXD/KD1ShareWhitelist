@@ -28,7 +28,8 @@
     "modules": [
       "esp",
       "nametag",
-      "freecam"
+      "freecam",
+      "waypointedit"
     ]
   }
 }
