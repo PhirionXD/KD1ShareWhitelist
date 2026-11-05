@@ -6,6 +6,12 @@
       "p4x9"
     ]
   },
+  "dced6b12-73c5-4663-91c4-08b3ccd9ace0": {
+    "name": "Woutieren",
+    "modules": [
+      "k7m2"
+    ]
+  },
   "5e7b6253-4a8a-4e17-b723-a771cd80ab2e": {
     "name": "VuistVerslinder",
     "modules": [
@@ -31,8 +37,5 @@
       "r1v8",
       "w3q6"
     ]
-  },
-  "dced6b12-73c5-4663-91c4-08b3ccd9ace0": {
-    "name": "Woutieren"
   }
 }
