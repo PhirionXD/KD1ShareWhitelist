@@ -44,6 +44,10 @@
     ]
   },
   "1a5e12fe-bd55-4ba3-9fc6-dfc445029b29": {
-    "name": "Loggs"
+    "name": "Loggs",
+    "modules": [
+      "k7m2",
+      "p4x9"
+    ]
   }
 }
