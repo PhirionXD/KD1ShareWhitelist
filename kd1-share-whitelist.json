@@ -50,6 +50,12 @@
       "p4x9"
     ]
   },
+  "10ac1030-93e4-4390-bc17-9d845f8fa7a9": {
+    "name": "Martloo",
+    "modules": [
+      "k7m2"
+    ]
+  },
   "5b5eadbe-d04e-4736-a98b-d716f00ddf96": {
     "name": "Zevenenzestig",
     "modules": [
@@ -77,8 +83,5 @@
       "n2c4",
       "w3q6"
     ]
-  },
-  "10ac1030-93e4-4390-bc17-9d845f8fa7a9": {
-    "name": "Martloo"
   }
 }
